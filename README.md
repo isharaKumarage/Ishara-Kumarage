@@ -1,7 +1,4 @@
 <h1 align="center">Hi 👋, I'm Ishara kumarage</h1>
-- 🌱 I’m currently learning **Sri lanka Institute of Information Technology**
-
-- 📫 How to reach me **isharakumarage027@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
